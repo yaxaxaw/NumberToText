@@ -25,3 +25,12 @@ Improvements:
 Initially, the program only worked with numbers up to 9,999 but was enhanced to support numbers up to 999,999.
 
 The project does not use files for input/output—all data is entered and displayed through the console.
+
+![image](https://github.com/user-attachments/assets/7df58244-954a-49f6-b4da-ca74001b0749)
+
+![image](https://github.com/user-attachments/assets/603ebba6-8ba4-47d9-99e3-f4b751e3f51a)
+
+![image](https://github.com/user-attachments/assets/f1b0a0f7-a549-40ca-a35f-f2a2b5ae5681)
+
+
+
